@@ -8,3 +8,4 @@ This project is a starting point for a Web application.
 ## 4주차 수업 자바스크립트 적용 완료! 
 ## 5주차 수업 자바스크립트 적용 완료! 
 ## 6주차 수업 자바스크립트 적용 완료! 
+## 7~12주차 수업 자바스크립트 적용 완료! 
